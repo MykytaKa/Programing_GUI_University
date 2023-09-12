@@ -1,0 +1,9 @@
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/lab1.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/lab1_autogen_timestamp_deps.dir
+D:/University/2_course/Programming_GUI/Labs/lab1/build-lab1-Desktop_Qt_6_5_2_MinGW_64_bit-Debug/CMakeFiles/lab1_autogen.dir
